@@ -1,0 +1,84 @@
+#LangChain Core
+langchain
+langchain-core
+langgraph
+
+# OpenAI Integration 
+langchain-openai
+openai
+
+# Anthropic Integration 
+langchain-anthropic
+
+# Google Gemini(PALM) Integration
+langchain-google-genai
+google-generativeai
+
+#Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+langchain-groq
+
+
+#machinelearning utillities
+numpy
+scikit-learn
+
+
+pdfminer.six
+python-docx
+extract-msg
+langchain
+chromadb
+openai
+
+
+fastapi
+uvicorn
+langchain
+openai
+faiss-cpu
+PyMuPDF
+python-dotenv
+
+
+
+
+pymupdf
+pdf2image
+pytesseract
+
+
+
+
+streamlit
+
+
+langchain
+langchain-community
+openai
+
+PyPDF2
+
+langchain-groq
+
+
+openai
+faiss-cpu
+langchain
+PyPDF2
+python-docx
+email-validator
+streamlit
+
+sentence-transformers
+
+
+faiss-cpu
+sentence-transformers
+numpy
+pickle5
